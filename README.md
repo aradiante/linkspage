@@ -1,7 +1,7 @@
 <img alt="imagem" src="./.github/preview.png" width="100%">
+> Dark Mode
 <img alt="imagem" src="./.github/preview2.png" width="100%">
-
-> LinksPage
+> Light Mode
 
 ## ⚙ Projeto
 
