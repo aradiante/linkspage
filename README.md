@@ -3,7 +3,7 @@
 
 > LinksPage
 
-## Projeto
+## ⚙ Projeto
 
 O LinksPage é um agregador de links para usar como cartão de visitas online.
 
