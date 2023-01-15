@@ -62,13 +62,25 @@ body * {
   color: var(--text-color-sub);
 }
 
+/*INFOS E BOTAO ===================*/
+
+#infoswitch {
+  display: flex;
+  align-items: center;
+  padding: 20px 5px;
+}
+
+#infos p {
+  font-size: 12px;
+  color: var(--text-color-sub);
+}
+
 /*BOTAO ===================*/
 
 #switch {
   position: relative;
   width: 64px;
-
-  margin: 4px auto;
+  margin: 0 0 0 auto;
 }
 
 #switch button {
@@ -81,7 +93,6 @@ body * {
   /* FORMA DE ALINHAR POSICIONAMENTO ABSOLUTO*/
   position: absolute;
   top: 50%;
-  left: 0;
   z-index: 1;
   transform: translateY(-50%);
 }
@@ -137,7 +148,7 @@ ul li a:hover {
   display: flex;
   justify-content: center;
   gap: 10px;
-  padding: 24px 0;
+  padding: 10px 0;
   font-size: 24px;
 }
 #social-links a {
