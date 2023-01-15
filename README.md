@@ -9,8 +9,6 @@ O LinksPage é um agregador de links para usar como cartão de visitas online.
 
 ## 🛠 Tecnologias
 
-Esse projeto foi desenvolvido com as sequintes tecnologias:
-
 - HTML e CSS
 - JavaScript
 - Git e Github
