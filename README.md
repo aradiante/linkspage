@@ -1,8 +1,6 @@
-# LinksPage
-
 <img alt="LinksPage" src="./.github/preview.png" width="100%">
 
-> Projeto
+> LinksPage
 
 ## Projeto
 
