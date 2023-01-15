@@ -35,7 +35,8 @@ body * {
   color: var(--text-color);
 }
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
@@ -66,6 +67,7 @@ body * {
 
 #infoswitch {
   display: flex;
+  justify-content: space-between;
   align-items: center;
   padding: 20px 5px;
 }
@@ -80,7 +82,6 @@ body * {
 #switch {
   position: relative;
   width: 64px;
-  margin: 0 0 0 auto;
 }
 
 #switch button {
