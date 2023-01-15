@@ -1,4 +1,4 @@
-<img alt="LinksPage" src="./.github/preview.png" width="100%">
+<img alt="imagem" src="./.github/preview.png" width="100%">
 
 > LinksPage
 
