@@ -4,13 +4,18 @@
 
 > Trilha Explorer
 
-Projeto construído do evento DevLinks da Rocketseat.
+Esse projeto foi desenvolvido com as sequintes tecnologias:
+
+## Projeto
+
+O LinksPage é um agregador de links para usar como cartão de visitas online.
 
 ## 🛠 Tecnologias
 
-- HTML
-- CSS
+- HTML e CSS
+- JavaScript
 - Git e Github
+- Figma
 
 ## 💛 Contato
 
