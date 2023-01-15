@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](linkspage-psi.vercel.app)
+[🔗 Clique aqui para acessar](https://aradiante.github.io/linkspage/)
 
 ## 🛠 Tecnologias
 
